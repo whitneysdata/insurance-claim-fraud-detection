@@ -1,0 +1,7 @@
+"insurance_type","total_claims","avg_severity","denied_claims"
+"Motor","1574","5503.81","85"
+"Mobile","1692","406.80","84"
+"Travel","1670","2979.64","88"
+"Health","1690","10801.18","85"
+"Life","1682","54386.44","77"
+"Property","1692","24573.88","84"
