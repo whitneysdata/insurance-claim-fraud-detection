@@ -1,12 +1,12 @@
 # Insurance Claim Fraud Detection
 ### SQL + Python Research Project | Masters Scholarship Portfolio
 
-![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20531355.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL%2016-336791?logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.20531355.svg)
 
 ---
 
